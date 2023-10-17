@@ -5,5 +5,5 @@
 ## Setup
 
 1. setup mysql database
-2. copy .env.example and populate it with mysql credentials
+2. edit application.properties and populate it with mysql credentials
 3. run spring bot web app
